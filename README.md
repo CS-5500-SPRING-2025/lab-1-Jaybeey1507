@@ -1,5 +1,26 @@
 # Lab 1 (25 marks)
 
+## Screenshots
+Below are the required screenshots for this lab:
+
+
+![Screenshot 1](git config.png)
+![Screenshot 2](git version.png)
+![Screenshot 3](github.png)
+![Screenshot 4](Main.png)
+![Screenshot 5](Remote.png)
+
+## GitHub Lab Questions
+The `Lab Questions.txt` file contains my Lab Questions and Answers:
+
+[View Lab Questions.txt](Lab Questions.txt)
+
+## GitHub Video Questions
+The `Video Question.txt` file contains my Lab Questions and Answers:
+
+[View Video Question.txt](Video Question.txt)
+
+
 [View Lab Instructions Here](L1.md)
 
 [How to use Github / How to submit](https://parsa-rajabi.github.io/CS-5500/#/labs?id=github-classroom)

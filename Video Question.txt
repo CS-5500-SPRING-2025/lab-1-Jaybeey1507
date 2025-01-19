@@ -1,0 +1,14 @@
+1.Summarize the video into 4-5 sentences
+
+Ans: The Software Development Life Cycle (SDLC) is a process that guides the development and maintenance of software through seven phases. It begins with planning and requirement analysis, where the project scope and detailed needs are defined. Next, the design phase creates blueprints for the application, followed by implementation and coding, where developers build the software and testers prepare test cases. In the testing phase, functionality is validated, bugs are identified, and fixes are made before the deployment phase releases the application to users. Finally, the maintenance phase ensures the system runs smoothly, addressing issues and adding new features as needed.
+
+2. In your own words, explain why Software Development Life Cycle (SDLC) is important in software projects.
+
+Ans: The Software Development Life Cycle (SDLC) is essential for software projects because it provides a structured approach to planning, building, testing, and maintaining software. It ensures that all stakeholders understand the project's goals and requirements, reducing misunderstandings and aligning expectations. By breaking the process into phases, SDLC helps teams identify and address potential issues early, saving time and costs. It also promotes collaboration among developers, designers, testers, and operations teams, ensuring high-quality software. Finally, SDLC ensures that the software remains reliable and scalable through ongoing maintenance and updates, adapting to user needs over time.
+
+
+
+
+
+
+

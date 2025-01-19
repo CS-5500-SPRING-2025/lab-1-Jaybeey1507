@@ -1,0 +1,24 @@
+What is the difference between Git and Github?
+Ans : Git is a version control system that tracks changes in your code, while GitHub is a platform that hosts Git repositories and provides tools for collaboration and project management.
+Sources: https://git-scm.com/doc
+
+What is a distributed version control system?
+Ans :A distributed version control system (DVCS) is a system where every developer has a full copy of the project's history on their own computer, allowing them to work offline and collaborate by sharing changes with each other.
+Sources: https://git-scm.com/doc
+
+Explain the 3 states of git in your words.
+Sure! Here are the three states of Git in simple terms:
+
+1. Modified: You've changed a file, but haven't saved those changes to the version history.
+2. Staged: You've marked the changed file to be included in the next commit.
+3. Committed**: You've saved the changes to the version history in the repository.
+
+In your own words, describe the following git commands:
+git clone: Copies an existing Git repository from a remote server to your local computer.
+git status: Shows the current state of your working directory and staging area, including any changes that have been made.
+git fetch: Downloads updates from a remote repository but does not merge them into your local repository.
+git init: Creates a new, empty Git repository in the current directory.
+git log: Displays a history of commits in the repository.
+
+What is a .gitignore file and its purpose?
+Ans: A .gitignore file tells Git which files or directories to ignore and not track. This is useful to keep things like temporary files, build artifacts, and secret keys out of your repository.
