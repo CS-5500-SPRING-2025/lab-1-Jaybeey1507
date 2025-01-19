@@ -4,21 +4,21 @@
 Below are the required screenshots for this lab:
 
 
-![Screenshot 1](git config.png)
-![Screenshot 2](git version.png)
+![Screenshot 1](gitconfig.png)
+![Screenshot 2](gitversion.png)
 ![Screenshot 3](github.png)
 ![Screenshot 4](Main.png)
 ![Screenshot 5](Remote.png)
 
 ## GitHub Lab Questions
-The `Lab Questions.txt` file contains my Lab Questions and Answers:
+The `LabQuestions.txt` file contains my Lab Questions and Answers:
 
-[View Lab Questions.txt](Lab Questions.txt)
+[View LabQuestions.txt](LabQuestions.txt)
 
 ## GitHub Video Questions
-The `Video Question.txt` file contains my Lab Questions and Answers:
+The `VideoQuestions.txt` file contains my Lab Questions and Answers:
 
-[View Video Question.txt](Video Question.txt)
+[View VideoQuestions.txt](VideoQuestions.txt)
 
 
 [View Lab Instructions Here](L1.md)
